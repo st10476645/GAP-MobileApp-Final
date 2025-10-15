@@ -18,3 +18,13 @@ The discounts are as follows:
 
 https://github.com/st10476645/GAP-MobileApp-Final.git
 
+# Running and testing of the app
+
+Go to this link .
+
+Click the “Code” button → Download ZIP.
+
+Extract the ZIP file.
+
+Open a terminal in that extracted folder.
+
