@@ -85,6 +85,7 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     color: "#2d3748",
     marginBottom: 8,
+    alignItems: "center",
   },
   courseFees: {
     fontSize: 14,
