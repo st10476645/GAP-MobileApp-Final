@@ -80,12 +80,13 @@ const styles = StyleSheet.create({
 
   // Start of the styling for the courses pages 
   
-  courseName: {
+  courseDetails: {
     fontSize: 16,
     fontWeight: "bold",
     color: "#2d3748",
     marginBottom: 8,
     alignItems: "center",
+    textAlign: "center", 
   },
   courseFees: {
     fontSize: 14,

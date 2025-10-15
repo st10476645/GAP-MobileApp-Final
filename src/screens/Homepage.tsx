@@ -123,11 +123,7 @@ export default function Homepage({ navigation }: { navigation: any }) {
                 onPress={() => {navigation.navigate("GardenMaintenance");
                 }}
               />
-              <Button
-                title="Contact Details"
-                onPress={() => {navigation.navigate("ContactDetails");
-                }}
-              />
+
             </View>
             
           )}

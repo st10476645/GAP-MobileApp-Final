@@ -9,17 +9,19 @@ export default function FirstAid({ navigation }: { navigation: any }) {
   return (
   <ScrollView>
     <View>
-        <Text style={styles.courseName}>First Aid</Text>
-        <Text style={styles.courseFees}>Fees:R1500</Text>{/*style={styles.courseFees}styling for later*/}
-        <Text style={styles.coursePurpose}>Purpose: To provide first aid awareness and basic life support.</Text>
-        <Text>Content: 
-           <Text>• Wounds and bleeding </Text>
-           <Text>• Burns and fractures</Text> 
-           <Text>• Emergency scene management</Text>
-           <Text>• Cardio-Pulmonary Resusitation (CPR)</Text>
-           <Text>• Respiratory distress e.g, Choking,blocked airway</Text>
-        </Text>{/*style={styles.courseContent}styling for later*/}  
-
+       <Text style={styles.courseDetails}>Fees:</Text>
+        <Text style={styles.courseFees}>R1500.00</Text>
+        <Text style={styles.courseDetails}>Purpose:</Text>
+        <Text> To provide first aid awareness and basic life support.</Text>
+        <Text style={styles.courseDetails}>Content:</Text>
+        <Text>
+            1. Wounds and bleeding{"\n"}
+            2. Burns and fractures{"\n"}
+            3. Emergency scene management{"\n"}
+            4. Cardio-Pulmonary Resusitation (CPR){"\n"}
+            5. Respiratory distress e.g, Choking,blocked airway{"\n"}
+      
+        </Text>   
         <Button 
            title="Go to Cart"
            onPress={() => {navigation.navigate("Cart");}}
