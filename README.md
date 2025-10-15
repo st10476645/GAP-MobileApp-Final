@@ -1,5 +1,5 @@
+# Group members: ST10476645, ST10497375, ST10486848
 # Overview of app & website 
-
 The mobile app and website both share the same functions; to assist the user about the courses offered, as well as detailed information, such as course content and duration, and prices. 
 
 # Features of app & website
@@ -14,4 +14,7 @@ The discounts are as follows:
 
 15% discount for more than three courses.
 
-# 
+# Github link and repository
+
+https://github.com/st10476645/GAP-MobileApp-Final.git
+
