@@ -10,13 +10,13 @@ export default function ChildMinding({ navigation }: { navigation: any }) {
       <Text style={styles.courseDetails}>Fees:</Text>
         <Text style={styles.courseFees}>R1500.00</Text>
         <Text style={styles.courseDetails}>Purpose:</Text>
-        <Text> To provide basic child and baby care.</Text>
+        <Text> To provide alterations and new garment tailoring services.</Text>
         <Text style={styles.courseDetails}>Content:</Text>
         <Text>
-           1. Birth to six month old baby needs{"\n"}
-            2. Seven-month to one year old nedds{"\n"}
-            3. Toddler needs{"\n"}
-            4. Educational toys{"\n"}
+           1.Types of stiches{"\n"}
+           2.Theading a sewing machine{"\n"}
+           3.Sewing buttons,zips,hems and seams{"\n"}
+           4.Designing and sewing new garments{"\n"} 
         </Text>
 
         <Button 

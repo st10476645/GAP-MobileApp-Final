@@ -73,7 +73,7 @@ return (
 
     <Text style={styles.sectionTitle}>Cart</Text> 
     {CheckFees.map(fee => ( // This line maps through the array and displays the courses with checkboxes)
-        <View key={fee.name} style={styles.courseName}>
+        <View key={fee.name} style={styles.courseDetails}>
         <Checkbox
              value={fee.checked}
              onValueChange={() => toggleCheckbox(fee.name)}
@@ -83,8 +83,8 @@ return (
              </Text> 
         </View>
     ))}
-    <Text style={styles.courseName}>Total: R{calculateTotal().toFixed(2)}</Text> 
-    <Text style={styles.courseName}>Discount Rate: {getDiscountRate()}%</Text>
+    <Text style={styles.courseDetails}>Total: R{calculateTotal().toFixed(2)}</Text> 
+    <Text style={styles.courseDetails}>Discount Rate: {getDiscountRate()}%</Text>
      {/* This line calculates and displays the total price of the selected courses discount included as well as the discount rate */}  
 
 

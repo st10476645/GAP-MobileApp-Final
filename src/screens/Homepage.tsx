@@ -6,7 +6,9 @@ import {
   LayoutAnimation,
   TouchableOpacity,
   Button,
+  Image
 } from "react-native";
+// import logo from "../../assets"; // Ensure the path to your logo is correct
 import styles from "../Stylesheet/Stylesheet"; 
 
 
