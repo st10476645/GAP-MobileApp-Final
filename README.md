@@ -32,22 +32,22 @@ In the terminal of the project run the following npx expo start
 or npx expo start --tunnel 
 Scan the QR code that appears with the Expo Go app on your phone
 
-## Change log 
-### Past App 
+# Change log 
+# Past App 
 
 <img width="448" height="896" alt="image" src="https://github.com/user-attachments/assets/d16d7425-99bd-4421-8fae-bf6d61c94dbe" />
 <img width="434" height="569" alt="image" src="https://github.com/user-attachments/assets/220a6acd-a7b6-4162-a7b7-facd27547557" />
 <img width="382" height="713" alt="image" src="https://github.com/user-attachments/assets/785a7569-bdec-4d5e-881b-25dd51d497b9" />
 
-### Newest version 
+# Newest version 
 
-#### Homepage
+## Homepage
 
 <img width="788" height="1600" alt="image" src="https://github.com/user-attachments/assets/7a46a78e-69ff-494d-b8f1-0c063efb4737" />
 
 <img width="835" height="1600" alt="image" src="https://github.com/user-attachments/assets/e7516d25-18be-4359-9150-060da8b8a28f" />
 
-#### Courses pages
+## Courses pages
 <img width="743" height="1600" alt="image" src="https://github.com/user-attachments/assets/b3a21271-8298-4a8c-974f-0d102bd72161" />
 <img width="740" height="1600" alt="image" src="https://github.com/user-attachments/assets/0220a591-1acb-419c-ad94-be59f857b81e" />
 <img width="751" height="1600" alt="image" src="https://github.com/user-attachments/assets/24795d54-a6f2-4670-a40e-76a8880e807b" />
@@ -57,7 +57,7 @@ Scan the QR code that appears with the Expo Go app on your phone
 <img width="746" height="1600" alt="image" src="https://github.com/user-attachments/assets/3d1d7fe7-ca28-45d7-82e3-55cd8b576635" />
 <img width="746" height="1600" alt="image" src="https://github.com/user-attachments/assets/4be76a05-cfeb-419f-a563-acb9f403eeb0" />
 
-#### Cart and user details page
+## Cart and user details page
 <img width="971" height="1600" alt="image" src="https://github.com/user-attachments/assets/439ab536-2beb-4f74-8325-37e7e69289ec" />
 <img width="976" height="1599" alt="image" src="https://github.com/user-attachments/assets/d0ceecab-44ac-415c-ad65-946a1e6297f6" />
 <img width="953" height="1600" alt="image" src="https://github.com/user-attachments/assets/7c679763-cab8-428a-8ea1-d87bab8e0e73" />
@@ -65,7 +65,7 @@ Scan the QR code that appears with the Expo Go app on your phone
 <img width="969" height="1599" alt="image" src="https://github.com/user-attachments/assets/f89521a0-e928-4275-997d-a4ceb52a151c" />
 <img width="1080" height="1560" alt="image" src="https://github.com/user-attachments/assets/d4008714-5d0f-4e85-9ed9-bb5d9dfb2648" />
 
-#### Contact details page 
+## Contact details page 
 
 <img width="778" height="1600" alt="image" src="https://github.com/user-attachments/assets/2c4ffee8-d94a-4fcc-af66-a27bddbd0bf3" />
 <img width="754" height="1600" alt="image" src="https://github.com/user-attachments/assets/ae2ecba7-66d0-4e5f-9021-e10c400e2f8d" />
